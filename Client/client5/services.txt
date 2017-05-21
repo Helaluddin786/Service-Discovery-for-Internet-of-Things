@@ -1,0 +1,3 @@
+0.141877174377
+0.258859157562
+services = From ('aaaa::212:7405:5:505', 5683), To None, ACK-25296, CONTENT-None, [Content-Type: 40, Block2: 33, ] </.well-known/core>;...86 bytes
